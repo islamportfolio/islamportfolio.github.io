@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://ggg239929-maker.github.io/sitemap.xml
