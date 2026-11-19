@@ -1,6 +1,7 @@
-:HL["/_next/static/chunks/2fkt402kqxhb0.css","style"]
-:HL["/_next/static/media/11beb7591f6e14ea-s.p.3qh2nyhh7vs2v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/2upvrcvdfyugm.css","style"]
 :HL["/_next/static/media/16d91c780434f2ce-s.p.0y1w0k24nk0rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/7f6187298f7885db-s.p.2m14d0ygxv3u7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/25fe60c6eb43bfce-s.p.1pwh1emfqxfsn.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/40d95ee6beb22b84-s.p.3c9ar-5z27ryk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/8800dfc60902df36-s.p.2sla2yow9-9p_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(portfolio)","param":null,"prefetchHints":4128,"slots":{"children":{"name":"cases","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"monochrome","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"oLotgPUkaoFOsWWyDSeYT"}
+:HL["/projects/monochrome/desktop-1-960.webp","image",{"imageSrcSet":"/projects/monochrome/desktop-1-640.webp 640w, /projects/monochrome/desktop-1-960.webp 960w, /projects/monochrome/desktop-1-1280.webp 1280w, /projects/monochrome/desktop-1-1600.webp 1600w","imageSizes":"(min-width: 1440px) 1300px, 92vw","fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(portfolio)","param":null,"prefetchHints":4192,"slots":{"children":{"name":"cases","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"monochrome","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"VJjznm5FpcxdHUmeNhJpB"}
